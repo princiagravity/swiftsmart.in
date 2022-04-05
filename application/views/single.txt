@@ -1,0 +1,64 @@
+	  
+        <div class="container addon_container" style="display: <?php echo $addon_style?>;">
+          <?php if($addons)
+          {
+            ?>
+          <p class="mb-1 font-weight-bold">Add Ons</p>
+              <!-- Single Catagory Card-->
+              <?php foreach($addons as $addon)
+              {
+                if($addon->max_sale >0)
+                { ?>
+               <div class="card ">
+               <div class="card-body">
+              <div class="row g-3">
+              
+               
+                 <div class="col-6"><div class="form-check">
+  <input class="form-check-input chk_addon " type="checkbox"  name="addon" value="<?php echo $addon->id;?>" id="flexCheckDefault">
+  <label class="form-check-label" for="flexCheckDefault">
+   <?php echo $addon->name.'('?><!--<i class="lni lni-rupee"></i>--> Rs <?php echo $addon->price.')';?>
+  </label>
+</div></div>
+
+<a class="ml-auto" href="#">
+<form id="myform" class="cart-items-number d-flex" method="POST" action="#">
+
+<input type="button" value="-" class="qtyminus btn btn-success btn-sm" id="ad_minus<?php echo $addon->id;?>" field="quantity" />
+
+<input type="text" name="addon_quantity" value="1" readonly id="<?php echo $addon->id;?>" class="qty form-control" />
+<input type="button" id="ad_plus<?php echo $addon->id;?>" value="+" class="qtyplus btn btn-success btn-sm" field="quantity" />
+<input type="hidden" name="addon_price" class="addon_price_<?php echo $addon->id;?>" value="<?php echo $addon->price ?>">
+              <input type="hidden" name="addon_name" class="addon_name_<?php echo $addon->id;?>" value="<?php echo $addon->name ?>">
+              <input type="hidden" name="addon_name" class="addon_max_<?php echo $addon->id;?>" value="<?php echo $addon->max_sale ?>">
+</form>
+</a>
+<!--<div class="col-6">
+<div class="cart-items-number d-flex">
+<div class="order-plus-minus d-flex align-items-center p-1">
+                <div class="quantity quantity-button-handler qty_minus_addon qtyminus btn btn-success btn-sm" id="ad_minus<?php echo $addon->id;?>">----</div>
+   
+                <input class="form-control cart-quantity-input addon_qty  qtyminus btn btn-success btn-sm" style="max-width: 50px;
+    height: 35px;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    text-align: center;
+    font-weight: 700;
+    padding: 0.375rem 0.5rem;" type="text" step="1" id="<?php echo $addon->id;?>" name="addon_quantity" value="1" readonly>
+     
+                <div class="quantity-button-handler qty_plus_addon" id="ad_plus<?php echo $addon->id;?>" >+</div>
+              </div>
+             
+              <input type="hidden" name="addon_price" class="addon_price_<?php echo $addon->id;?>" value="<?php echo $addon->price ?>">
+              <input type="hidden" name="addon_name" class="addon_name_<?php echo $addon->id;?>" value="<?php echo $addon->name ?>">
+              <input type="hidden" name="addon_name" class="addon_max_<?php echo $addon->id;?>" value="<?php echo $addon->max_sale ?>">
+</div>
+</div>-->
+                <p class="addon_status_<?php echo $addon->id;?>" style="display: none;"></p>
+              </div>
+                
+                
+              </div></div>
+              <?php } } }?>
+</div>
+

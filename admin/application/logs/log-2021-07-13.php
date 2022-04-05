@@ -1,0 +1,8 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-13 09:23:59 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-07-13 10:47:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT name from delivery_boy_details where id=
+ERROR - 2021-07-13 10:54:11 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-07-13 10:55:21 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-07-13 10:55:29 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-07-13 22:30:56 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,tax_amount,order_total,payment_type,status from order_details where id=images

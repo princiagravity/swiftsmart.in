@@ -1,0 +1,7 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-24 14:10:19 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-08-24 14:10:32 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-08-24 14:12:22 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-08-24 14:54:15 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=images
+ERROR - 2021-08-24 15:49:12 --> Query error: Unknown column 'images' in 'where clause' - Invalid query: SELECT id,customer_id,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=images

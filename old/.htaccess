@@ -1,0 +1,17 @@
+Options +FollowSymLinks
+
+<IfModule mod_rewrite.c>
+	# Header set Cache-Control "max-age=29030400, public"
+	Header set Cache-Control "max-age=1, public"
+	RewriteEngine On
+	# RewriteBase /
+
+
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php?/$0 [L]
+	
+	
+	
+</IfModule>
+Options -Indexes

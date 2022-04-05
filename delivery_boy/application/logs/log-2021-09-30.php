@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-30 04:19:38 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:19:46 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:19:49 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:20:09 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:27:42 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:27:55 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:29:02 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:33:00 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:33:06 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:33:11 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:33:18 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:33:22 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:33:41 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:35:04 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:35:08 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:37:01 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:37:31 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:37:45 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:38:32 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:40:56 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:41:43 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:41:54 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:42:38 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:42:47 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:44:23 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:44:27 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 04:44:32 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:45:00 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:46:12 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:46:50 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:47:14 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:48:22 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:48:31 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:50:12 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:51:12 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:51:29 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:51:40 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-09-30 04:51:50 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 04:52:41 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-09-30 04:53:56 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-09-30 04:54:01 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-09-30 04:54:08 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 17:16:06 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 17:16:16 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 17:16:22 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 17:16:26 --> Query error: Unknown column 'service' in 'where clause' - Invalid query: SELECT id,customer_id,total_before_vat,delivery_boy_id,area,cart_total,discount,invoice_no,order_time,tax,delivery_charge,delivery_tax,tax_amount,order_total,payment_type,status from order_details where id=service-worker.js
+ERROR - 2021-09-30 17:16:47 --> 404 Page Not Found: DeliveryController/service-worker.js
+ERROR - 2021-09-30 17:16:53 --> 404 Page Not Found: Service-workerjs/index
